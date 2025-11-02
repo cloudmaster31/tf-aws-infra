@@ -103,8 +103,6 @@ aws acm import-certificate \
 11. Trigger ASG Instance Refresh
 12. Wait for refresh to complete (GitHub Actions workflow status matches refresh status)
 
-> ❌ Rollback not required for failed deployments
-
 ---
 
 ## Deployment Instructions
